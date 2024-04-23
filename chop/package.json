@@ -1,0 +1,17 @@
+{
+  "name": "coding_katas",
+  "version": "1.0.0",
+  "description": "",
+  "main": "chop.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Attila Cseh",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
